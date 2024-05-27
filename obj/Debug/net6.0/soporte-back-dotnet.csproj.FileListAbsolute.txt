@@ -68,3 +68,10 @@ C:\Users\juanf\source\repos\soporte-back-dotnet\obj\Debug\net6.0\refint\soporte-
 C:\Users\juanf\source\repos\soporte-back-dotnet\obj\Debug\net6.0\soporte-back-dotnet.pdb
 C:\Users\juanf\source\repos\soporte-back-dotnet\obj\Debug\net6.0\soporte-back-dotnet.genruntimeconfig.cache
 C:\Users\juanf\source\repos\soporte-back-dotnet\obj\Debug\net6.0\ref\soporte-back-dotnet.dll
+C:\Users\juanf\source\repos\soporte-back-dotnet\bin\Debug\net6.0\out\web.config
+C:\Users\juanf\source\repos\soporte-back-dotnet\bin\Debug\net6.0\out\appsettings.Development.json
+C:\Users\juanf\source\repos\soporte-back-dotnet\bin\Debug\net6.0\out\appsettings.json
+C:\Users\juanf\source\repos\soporte-back-dotnet\bin\Debug\net6.0\out\soporte-back-dotnet.deps.json
+C:\Users\juanf\source\repos\soporte-back-dotnet\bin\Debug\net6.0\out\soporte-back-dotnet.runtimeconfig.json
+C:\Users\juanf\source\repos\soporte-back-dotnet\bin\Debug\net6.0\railway.json
+C:\Users\juanf\source\repos\soporte-back-dotnet\obj\Debug\net6.0\soporte-back-dotnet.sourcelink.json
