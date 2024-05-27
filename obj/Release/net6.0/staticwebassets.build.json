@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KZIMcCrnhHufm8mwJoYYeIfNV6xaP1MfZFRjvIBESRs=",
+  "Source": "soporte-back-dotnet",
+  "BasePath": "_content/soporte-back-dotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
