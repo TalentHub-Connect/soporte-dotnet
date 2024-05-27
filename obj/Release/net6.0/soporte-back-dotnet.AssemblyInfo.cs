@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("soporte-back-dotnet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b521b2c5348b551ed2418b785ce4cad9840f6b76")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("soporte-back-dotnet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("soporte-back-dotnet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
