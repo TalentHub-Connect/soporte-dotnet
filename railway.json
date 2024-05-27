@@ -1,0 +1,8 @@
+{
+  "build": {
+    "command": "dotnet publish --no-restore -c Release -o out"
+  },
+  "start": {
+    "command": "dotnet out/soporte-back-dotnet.dll"
+  }
+}
