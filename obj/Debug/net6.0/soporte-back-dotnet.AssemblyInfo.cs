@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("soporte-back-dotnet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01c748fdc29536538019f433c20ed5cbf0ae1331")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b6cc0487a9b99920f3c2444c689c800f660650e")]
 [assembly: System.Reflection.AssemblyProductAttribute("soporte-back-dotnet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("soporte-back-dotnet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
