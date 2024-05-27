@@ -37,7 +37,8 @@ namespace soporte_back_dotnet.Controllers
             return ticket;
         }
 
-        // POST: api/support/tickets/createTicket
+        // POST: api/support/tickets/createTicket/
+        //Y eso tambien
         [HttpPost("createTicket")]
         public ActionResult<Supportticket> CreateTicket([FromBody] Supportticket ticket)
         {
