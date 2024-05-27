@@ -48,6 +48,7 @@ namespace soporte_back_dotnet.Controllers
         }
 
         // PUT: api/support/tickets/{ticketId}/update-answer
+        //Comentar esto
         [HttpPut("{ticketId}/update-answer")]
         public async Task<ActionResult<Supportticket>> UpdateAnswerAsync([FromRoute] int ticketId, [FromBody] Supportticket request)
         {
